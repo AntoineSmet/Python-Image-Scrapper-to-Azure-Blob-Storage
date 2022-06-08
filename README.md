@@ -1,7 +1,7 @@
 
 # Python Image Scrapper to Azure Blob Storage (with local path)
 
-The project will help you scrape image from a website and will send it directly (with a local path) to a Azure Blob Storage
+The project will help you scrape image from a website and will send it directly (with a local path) to an Azure Blob Storage
 
 
 ## Installation
